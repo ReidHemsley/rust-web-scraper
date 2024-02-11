@@ -1,0 +1,9 @@
+C:\Programming Stuff\rust-web-scraper\rust_web_scraper\target\debug\deps\libdtoa-2269890f9b5dc564.rmeta: C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dtoa-1.0.9\src\lib.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dtoa-1.0.9\src\diyfp.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dtoa-1.0.9\src\dtoa.rs
+
+C:\Programming Stuff\rust-web-scraper\rust_web_scraper\target\debug\deps\libdtoa-2269890f9b5dc564.rlib: C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dtoa-1.0.9\src\lib.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dtoa-1.0.9\src\diyfp.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dtoa-1.0.9\src\dtoa.rs
+
+C:\Programming Stuff\rust-web-scraper\rust_web_scraper\target\debug\deps\dtoa-2269890f9b5dc564.d: C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dtoa-1.0.9\src\lib.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dtoa-1.0.9\src\diyfp.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dtoa-1.0.9\src\dtoa.rs
+
+C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dtoa-1.0.9\src\lib.rs:
+C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dtoa-1.0.9\src\diyfp.rs:
+C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\dtoa-1.0.9\src\dtoa.rs:
