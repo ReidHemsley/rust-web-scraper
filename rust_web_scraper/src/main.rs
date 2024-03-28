@@ -17,22 +17,15 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     // Parse the HTML document
     let document = Html::parse_document(&html);
 
-    // List the options for the user to choose from
-    println!("Select a CSS selector:");
-    println!("1. #id");
-    println!("2. .class");
-    println!("3. element");
-    
-    // Prompt for the user's choice
-    println!("Enter your choice:");
-    let mut choice = String::new();
-    io::stdin().read_line(&mut choice)?;
-    let selector = match choice.trim() {
-        "1" => Selector::parse("#id").expect("Failed to parse selector"),
-        "2" => Selector::parse(".class").expect("Failed to parse selector"),
-        "3" => Selector::parse("element").expect("Failed to parse selector"),
-        _ => panic!("Invalid choice"),
-    };
+    // Prompt the user for the CSS selector
+    print!("Enter the CSS selector: ");
+    io::stdout().flush()?; // Make sure the prompt is visible immediately
+    let mut selector_str = String::new();
+    io::stdin().read_line(&mut selector_str)?;
+    let selector_str = selector_str.trim();
+
+    // Parse the CSS selector
+    let selector = Selector::parse(selector_str).expect("Failed to parse selector");
 
     // Iterate over elements matching our selector
     for element in document.select(&selector) {

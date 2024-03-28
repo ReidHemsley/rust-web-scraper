@@ -1,0 +1,10 @@
+C:\Programming Stuff\rust-web-scraper\rust_web_scraper\target\debug\deps\libwgpu_glyph-15ef374d2b8831aa.rmeta: C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\lib.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\builder.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\pipeline.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\pipeline\cache.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\region.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\shader/glyph.wgsl
+
+C:\Programming Stuff\rust-web-scraper\rust_web_scraper\target\debug\deps\wgpu_glyph-15ef374d2b8831aa.d: C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\lib.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\builder.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\pipeline.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\pipeline\cache.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\region.rs C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\shader/glyph.wgsl
+
+C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\lib.rs:
+C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\builder.rs:
+C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\pipeline.rs:
+C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\pipeline\cache.rs:
+C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\region.rs:
+C:\Users\reidh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wgpu_glyph-0.16.0\src\shader/glyph.wgsl:
